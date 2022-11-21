@@ -1,0 +1,16 @@
+main {margin: 120px;
+    background-color: white;
+    text-align: center;
+    color: black;
+    } 
+    
+    H1 {text-align: center;
+    font-size: 100px;
+    font-family: 'Courier New', Courier, monospace;}
+    
+    h5 {font-size: 20px;}
+    
+    h3 {font-size: 25px;}
+    
+    #enviar {width: 100px;
+    height: 30px;}
